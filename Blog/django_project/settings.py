@@ -128,6 +128,7 @@ LOGIN_URL = 'login'
 MY_USER = 'Your email'
 # For example MY_USER = 'my_email@emai.com'
 MY_PASS = 'Your password of email'
+# For example MY_PASS = 'your_password'
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
